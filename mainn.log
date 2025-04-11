@@ -1,0 +1,5 @@
+INFO:root:Дата и время вызова функции: 2025-04-11 21:53:46.690349.
+INFO:root:Название функции: hello_world.
+INFO:root:Позиционные аргументы: (), именованные: {}.
+INFO:root:Возвращаемое значение: Hello World, I study in Netology 20.10.2024.
+INFO:root:
